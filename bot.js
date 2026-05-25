@@ -4,8 +4,8 @@ const { Telegraf, Markup } = require("telegraf");
 const bot = new Telegraf(process.env.BOT_TOKEN);
 
 const ADMIN_ID = parseInt(process.env.ADMIN_ID || "0");
-const CHANNEL_LINK = process.env.CHANNEL_LINK || "https://t.me/your_channel";
-const CHANNEL_USERNAME = process.env.CHANNEL_USERNAME || "your_channel"; // без @
+const CHANNEL_LINK = process.env.CHANNEL_LINK || "https://t.me/Pinokkio_uzb";
+const CHANNEL_USERNAME = process.env.CHANNEL_USERNAME || "Pinokkio_uzb"; // без @
 
 // ─────────────────────────────────────────
 // ТОВАРЫ
