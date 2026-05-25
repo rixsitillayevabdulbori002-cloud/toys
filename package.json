@@ -1,0 +1,18 @@
+{
+  "name": "toys",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "dev": "nodemon bot.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "nodemon": "^3.1.14",
+    "telegraf": "^4.16.3"
+  }
+}
